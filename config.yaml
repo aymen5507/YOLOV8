@@ -1,0 +1,10 @@
+
+path: /content/gdrive/My Drive/yolov8/data
+train: images\train
+val: images\val
+
+# Classes
+nc: 4  # number of classes
+names: ['Team1', 'Team2', 'Ball', 'Team3']  # class names
+
+
